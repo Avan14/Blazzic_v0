@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
 import { prisma } from "@/lib/db";
-// import { generateContent } from "@/lib/gemini";
+// import { generateContent } from "@/lib/nova";
 // import { RESUME_BULLET_PROMPT, LINKEDIN_POST_PROMPT, TWITTER_THREAD_PROMPT } from "@/lib/prompts";
 
 export async function POST(request: NextRequest) {
