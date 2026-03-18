@@ -1,4 +1,4 @@
-# 🚀 gitXflow
+# 🚀 Blazzic
 
 **Turn your work into visibility — automatically.**
 
